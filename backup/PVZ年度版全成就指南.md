@@ -1,1 +1,9 @@
-![屏幕截图 2024-12-28 200016](https://github.com/user-attachments/assets/6a4307ac-fbb0-471f-a5e3-d1993e4028d0)
+**1.Home Lawn Security（草坪安全）**
+> [!NOTE] 
+> 完成冒险模式
+
+**2.Better Off Dead（再见人生）**
+> [!NOTE] 
+> 我是僵尸无尽模式中完成十轮
+
+
